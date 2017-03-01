@@ -1,0 +1,6 @@
+c:\users\silver\documents\visual studio 2015\Projects\Addition\Addition\bin\Debug\Addition.exe.config
+c:\users\silver\documents\visual studio 2015\Projects\Addition\Addition\bin\Debug\Addition.exe
+c:\users\silver\documents\visual studio 2015\Projects\Addition\Addition\bin\Debug\Addition.pdb
+c:\users\silver\documents\visual studio 2015\Projects\Addition\Addition\obj\Debug\Addition.csprojResolveAssemblyReference.cache
+c:\users\silver\documents\visual studio 2015\Projects\Addition\Addition\obj\Debug\Addition.exe
+c:\users\silver\documents\visual studio 2015\Projects\Addition\Addition\obj\Debug\Addition.pdb
