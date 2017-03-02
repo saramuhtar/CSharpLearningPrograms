@@ -1,0 +1,6 @@
+c:\users\silver\documents\visual studio 2015\Projects\StringType\StringType\bin\Debug\StringType.exe.config
+c:\users\silver\documents\visual studio 2015\Projects\StringType\StringType\bin\Debug\StringType.exe
+c:\users\silver\documents\visual studio 2015\Projects\StringType\StringType\bin\Debug\StringType.pdb
+c:\users\silver\documents\visual studio 2015\Projects\StringType\StringType\obj\Debug\StringType.csprojResolveAssemblyReference.cache
+c:\users\silver\documents\visual studio 2015\Projects\StringType\StringType\obj\Debug\StringType.exe
+c:\users\silver\documents\visual studio 2015\Projects\StringType\StringType\obj\Debug\StringType.pdb
