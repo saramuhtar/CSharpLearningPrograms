@@ -1,0 +1,6 @@
+c:\users\silver\documents\visual studio 2015\Projects\QuestionsForTheCharacterAndString\QuestionsForTheCharacterAndString\bin\Debug\QuestionsForTheCharacterAndString.exe.config
+c:\users\silver\documents\visual studio 2015\Projects\QuestionsForTheCharacterAndString\QuestionsForTheCharacterAndString\bin\Debug\QuestionsForTheCharacterAndString.exe
+c:\users\silver\documents\visual studio 2015\Projects\QuestionsForTheCharacterAndString\QuestionsForTheCharacterAndString\bin\Debug\QuestionsForTheCharacterAndString.pdb
+c:\users\silver\documents\visual studio 2015\Projects\QuestionsForTheCharacterAndString\QuestionsForTheCharacterAndString\obj\Debug\QuestionsForTheCharacterAndString.csprojResolveAssemblyReference.cache
+c:\users\silver\documents\visual studio 2015\Projects\QuestionsForTheCharacterAndString\QuestionsForTheCharacterAndString\obj\Debug\QuestionsForTheCharacterAndString.exe
+c:\users\silver\documents\visual studio 2015\Projects\QuestionsForTheCharacterAndString\QuestionsForTheCharacterAndString\obj\Debug\QuestionsForTheCharacterAndString.pdb
