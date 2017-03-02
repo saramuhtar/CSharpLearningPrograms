@@ -1,0 +1,6 @@
+c:\users\silver\documents\visual studio 2015\Projects\Literal_Characters\Literal_Characters\bin\Debug\Literal_Characters.exe.config
+c:\users\silver\documents\visual studio 2015\Projects\Literal_Characters\Literal_Characters\bin\Debug\Literal_Characters.exe
+c:\users\silver\documents\visual studio 2015\Projects\Literal_Characters\Literal_Characters\bin\Debug\Literal_Characters.pdb
+c:\users\silver\documents\visual studio 2015\Projects\Literal_Characters\Literal_Characters\obj\Debug\Literal_Characters.csprojResolveAssemblyReference.cache
+c:\users\silver\documents\visual studio 2015\Projects\Literal_Characters\Literal_Characters\obj\Debug\Literal_Characters.exe
+c:\users\silver\documents\visual studio 2015\Projects\Literal_Characters\Literal_Characters\obj\Debug\Literal_Characters.pdb
