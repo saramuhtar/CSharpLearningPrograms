@@ -1,0 +1,6 @@
+c:\users\silver\documents\visual studio 2015\Projects\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe.config
+c:\users\silver\documents\visual studio 2015\Projects\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.csprojResolveAssemblyReference.cache
+c:\users\silver\documents\visual studio 2015\Projects\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe
+c:\users\silver\documents\visual studio 2015\Projects\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.pdb
+c:\users\silver\documents\visual studio 2015\Projects\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.exe
+c:\users\silver\documents\visual studio 2015\Projects\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.pdb
